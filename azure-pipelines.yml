@@ -25,8 +25,8 @@ steps:
     SonarCloud: 'asdfghj'
     organization: 'unextdeloitte1663463442246'
     scannerMode: 'MSBuild'
-    projectKey: 'Azuredevops'
-    projectName: 'Azuredevops'
+    projectKey: 'project1234567'
+    projectName: 'project1234567'
 - task: VSBuild@1
   inputs:
     solution: '$(solution)'
